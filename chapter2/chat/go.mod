@@ -1,4 +1,4 @@
-module github.com/mrojasb2000/goblueprints/chapter1/chat
+module github.com/mrojasb2000/goblueprints/chapter2/chat
 
 go 1.14
 
