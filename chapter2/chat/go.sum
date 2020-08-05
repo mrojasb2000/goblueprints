@@ -1,5 +1,4 @@
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
-github.com/mrojasb2000/goblueprints v0.0.0-20200802232603-7ad80718f145 h1:re6bgDpl/iS5Box5MnqGPn6s8PlvAw0+zshiTPgC3Gg=
-github.com/mrojasb2000/goblueprints v0.0.0-20200802232603-7ad80718f145/go.mod h1:1S2rBSC1aOOFKQuQQKVihsXungkri+TCMEeOY4MWisM=
-github.com/mrojasb2000/goblueprints v0.0.0-20200803014625-eff7b3d63618 h1:TH1PrbXFUYj+eOCIAtCI7TSWPdWUsOqmqVvPuIBAy20=
+github.com/mrojasb2000/goblueprints v0.0.0-20200804211034-091503c0ed78 h1:Tms97M22guRysDqzrRWbH4fndJ+M7gx8JOCsGk3zSh8=
+github.com/mrojasb2000/goblueprints v0.0.0-20200804211034-091503c0ed78/go.mod h1:1S2rBSC1aOOFKQuQQKVihsXungkri+TCMEeOY4MWisM=
